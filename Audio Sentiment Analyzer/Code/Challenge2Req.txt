@@ -1,0 +1,12 @@
+numpy
+pandas
+tensorflow
+librosa
+wave
+keras
+matplotlib
+pydub
+os
+sklearn
+python_speech_features
+scipy
